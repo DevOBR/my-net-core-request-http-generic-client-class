@@ -1,6 +1,6 @@
 ﻿
 
-namespace RequestClient
+namespace RequestLibrary
 {
     using Newtonsoft.Json;
     using System;
