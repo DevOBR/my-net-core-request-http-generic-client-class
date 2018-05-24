@@ -1,0 +1,8 @@
+C:\www\pruebas\dotnetApplications\ConsoleApp1\RequestClientLibrary\bin\Debug\RequestClientLibrary.dll
+C:\www\pruebas\dotnetApplications\ConsoleApp1\RequestClientLibrary\bin\Debug\RequestClientLibrary.pdb
+C:\www\pruebas\dotnetApplications\ConsoleApp1\RequestClientLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\www\pruebas\dotnetApplications\ConsoleApp1\RequestClientLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\www\pruebas\dotnetApplications\ConsoleApp1\RequestClientLibrary\obj\Debug\RequestClientLibrary.csproj.CoreCompileInputs.cache
+C:\www\pruebas\dotnetApplications\ConsoleApp1\RequestClientLibrary\obj\Debug\RequestClientLibrary.csproj.CopyComplete
+C:\www\pruebas\dotnetApplications\ConsoleApp1\RequestClientLibrary\obj\Debug\RequestClientLibrary.dll
+C:\www\pruebas\dotnetApplications\ConsoleApp1\RequestClientLibrary\obj\Debug\RequestClientLibrary.pdb
